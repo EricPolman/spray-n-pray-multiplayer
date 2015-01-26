@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "server", "server.vcxproj", "{EAC082E0-58A2-45ED-9E1E-E2518D519363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3703D69F-A5BC-45DA-86FE-CC6400227312}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC082E0-58A2-45ED-9E1E-E2518D519363}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAC082E0-58A2-45ED-9E1E-E2518D519363}.Debug|Win32.Build.0 = Debug|Win32
+		{EAC082E0-58A2-45ED-9E1E-E2518D519363}.Release|Win32.ActiveCfg = Release|Win32
+		{EAC082E0-58A2-45ED-9E1E-E2518D519363}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
